@@ -3,7 +3,7 @@ csharp-container-101
 
 ## Usage
 
-This assumes you already have the Dev Containers installed in VSCode.
+This assumes you already have the **Dev Containers** extension installed in VSCode.
 
 1. Start Docker (on a Mac: `open -a Docker`)
 2. Open the project in Visual Studio Code (VS Code)
